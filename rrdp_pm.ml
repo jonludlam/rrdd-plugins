@@ -15,6 +15,7 @@
 (* The goal of this plugin is to get the proportion of time the CPU(s)
    spent in it (their) different P and C states *)
 
+open Stdext
 open Listext
 open Arrayext
 open Xenctrl
